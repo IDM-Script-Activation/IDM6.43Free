@@ -1,0 +1,1 @@
+Queue a site and let the 32 threads run. The chrome extension grabs from the browser you already use.
